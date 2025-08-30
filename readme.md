@@ -59,7 +59,7 @@ Ensure you have installed:
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-music-player.git
+git clone [https://github.com/your-username/react-music-player.git](https://github.com/aks1727/React-Music-player.git)
 cd react-music-player
 ```
 
