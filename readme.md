@@ -1,4 +1,4 @@
-# 🎶 React Music Player – Full Stack Application
+# 🎶 React Music Player – Full Stack Application  [![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C853.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaiaksh-music.vercel.app/)
 
 A modern, responsive **Music Player Web App** built with **React + Vite (frontend)** and **Node.js + Express + MongoDB (backend)**. This platform allows users to play songs, create playlists, mark favorites, and explore artists with a smooth and elegant interface.
 
